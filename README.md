@@ -6,9 +6,9 @@
 
 ### About repository 
 It contains
-- [Heart Disease prediction](https://github.com/Spidy20/Kaggle_Kernels/tree/master/Heart%20Disease) with Decision tree & Logistic regression
-- [Suicides Data](https://github.com/Spidy20/Kaggle_Kernels/tree/master/Suicide%20analysis) analysis 
-- [Mall segmantation](https://github.com/Spidy20/Kaggle_Kernels/tree/master/Mall%20Segmantation(Clustering)) with KMeans clustering
+- [Heart Disease prediction](https://github.com/Spidy20/Kaggle_Kernels/tree/master/Heart%20Disease) with Decision tree & Logistic regression [Kaggle link](https://www.kaggle.com/spidy20/heart-desease-prediction)
+- [Suicides Data](https://github.com/Spidy20/Kaggle_Kernels/tree/master/Suicide%20analysis) analysis  [Kaggle link](https://www.kaggle.com/spidy20/data-visualization-of-suicides-data)
+- [Mall segmantation](https://github.com/Spidy20/Kaggle_Kernels/tree/master/Mall%20Segmantation(Clustering)) with KMeans clustering [kaggle link](https://www.kaggle.com/spidy20/kmeans-clustering-for-find-cutomer-segmantation)
 
 ### Follow me on Kaggle
 
